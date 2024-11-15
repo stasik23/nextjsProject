@@ -1,2 +1,0 @@
-# nextjsProject
-project on nextjs
